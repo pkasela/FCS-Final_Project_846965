@@ -1,0 +1,4 @@
+#Ignore the checkpoint files of jupyter
+.ipynb_checkpoints/
+#Ignore also some text file I created to annote problems
+*.txt
